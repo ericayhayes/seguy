@@ -1,0 +1,18 @@
+sudo: required
+language: ruby
+rvm:
+  - 2.4
+addons:
+  firefox: latest
+git:
+  depth: 1
+branches:
+  except:
+    - static
+before_script:
+  - bundle exec rake wax:lunr
+script:
+  - bundle exec jekyll build -d _site/wax
+  - bundle exec rake wax:test
+after_success:
+  - if [ "$TRAVIS_BRANCH" = "master" -a "$TRAVIS_PULL_REQUEST" = "false" ]; then bundle exec rake wax:push static; fi
