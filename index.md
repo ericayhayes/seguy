@@ -27,7 +27,7 @@ banner:
   zoom: 2
 ---
 
-__E.A. Séguy__ was active as a designer and artist in France in the first three decades of the 20th century. Of that much I am confident. But there is strangely very little biographical material about him online. Much of what is around is copied from site to site (whether university or poster shop) and I don't think all of it is trustworthy. Part of the problem comes from the fact that there was another E.A. Séguy (Eugene Alain - names they both 'might' share too) active in Paris at the same time - but he was an entomologist, strangely enough. One of them died in 1989 so it's likely these prints remain under copyright.
+__E.A. Séguy__ was active as a designer and artist in France in the first three decades of the 20th century. Of that much I am confident. But there is strangely very little biographical material about him online. Much of what is around is copied from site to site (whether university or poster shop) and I don't think all of it is trustworthy. Part of the problem comes from the fact that there was another E.A. Séguy (Eugene Alain - names they both 'might' share too) active in Paris at the same time - but he was an entomologist, strangely enough. One of them died in 1989 so it's likely these prints remain under copyright.  THIS IS A TEST
 
 In any event, Séguy the artist is best remembered for a couple of series of prints he produced in the 1920s - 'Papillons' and 'Insectes' - both of which are featured above. The wonderfully lush and vibrant colours we see come from the multiple-stencil technique of pochoir printing, usually associated with the Art Nouveau and Art Deco movements.
 
